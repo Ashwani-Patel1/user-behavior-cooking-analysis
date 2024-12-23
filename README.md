@@ -1,3 +1,8 @@
+## GitHub Repository Link
+You can view and download the project from the following link: [My GitHub Repository](https://github.com/Ashwani-Patel1/user-behavior-cooking-analysis)
+
+
+
 # User Behavior and Cooking Preferences Analysis
 
 This project analyzes datasets related to user behavior, cooking preferences, and order trends. The goal is to gain insights into which dishes are most popular, how cooking sessions correlate with orders, and what demographic factors influence user behavior.
