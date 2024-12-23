@@ -18,8 +18,8 @@ This project analyzes datasets related to user behavior, cooking preferences, an
 - Cooking session duration has a positive correlation with the number of orders.
 
 ## Visualizations
-- ![Popular Dishes](visualizations/popular_dishes.png)
-- ![Correlation Heatmap](visualizations/correlation_heatmap.png)
+- ![Popular Dishes](popular_dishes.png)
+- ![Correlation Heatmap](correlation_heatmap.png)
 
 ## Business Recommendations
 - Promote "Dish A" as it is the most popular.
